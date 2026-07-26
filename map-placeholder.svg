@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice">
+  <rect width="800" height="450" fill="#eef1f6"/>
+  <g stroke="#c7d0e0" stroke-width="1">
+    <line x1="0" y1="90" x2="800" y2="90"/>
+    <line x1="0" y1="180" x2="800" y2="180"/>
+    <line x1="0" y1="270" x2="800" y2="270"/>
+    <line x1="0" y1="360" x2="800" y2="360"/>
+    <line x1="133" y1="0" x2="133" y2="450"/>
+    <line x1="266" y1="0" x2="266" y2="450"/>
+    <line x1="399" y1="0" x2="399" y2="450"/>
+    <line x1="532" y1="0" x2="532" y2="450"/>
+    <line x1="665" y1="0" x2="665" y2="450"/>
+  </g>
+  <path d="M0 260 C 150 220, 250 300, 400 250 C 550 200, 650 260, 800 230" stroke="#c7d0e0" stroke-width="14" fill="none" opacity="0.6"/>
+  <circle cx="400" cy="230" r="14" fill="#0B3D91" opacity="0.15"/>
+  <circle cx="400" cy="230" r="8" fill="#0B3D91"/>
+  <path d="M400 230 m0 -26 a26 26 0 1 1 -0.1 0 z" fill="none"/>
+  <path d="M400 190 C 384 190 372 202 372 218 C372 240 400 268 400 268 C400 268 428 240 428 218 C428 202 416 190 400 190Z" fill="#0B3D91"/>
+  <circle cx="400" cy="216" r="10" fill="#ffffff"/>
+  <text x="400" y="310" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="16" fill="#0B3D91" font-weight="600">Chipledhunga, Pokhara</text>
+</svg>
