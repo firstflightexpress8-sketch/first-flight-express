@@ -20,23 +20,6 @@ A premium, responsive marketing website for **First Flight Express**, an interna
 - **Signature motif:** a dashed "flight path" line connecting Pokhara to the world, echoed in the hero, stats band, and the tracking page's boarding-pass-style shipment ticket.
 
 ## 🗂 Project structure
-
-```
-/
-├── index.html
-├── about.html
-├── services.html
-├── tracking.html
-├── contact.html
-├── style.css
-├── script.js
-├── README.md
-└── images/
-    ├── logo.svg
-    ├── favicon.svg
-    ├── hero-bg.svg
-    ├── about-story.svg
-    └── map-placeholder.svg
 ```
 
 All images are hand-built SVG placeholders (no external image requests), so the site loads instantly and stays crisp at any resolution. Swap them for real photography/renders any time by keeping the same filenames, or updating the `src`/`background-image` references in the HTML/CSS.
